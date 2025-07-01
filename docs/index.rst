@@ -3,7 +3,7 @@ How to Reach Eero Support Phone Number?
 
 Eero is a well-known brand in the world of mesh Wi-Fi systems, offering users a seamless internet experience through its advanced routing technology. With increasing reliance on stable home networks for work, education, and entertainment, it’s no surprise that many users seek prompt and reliable customer support when they face technical issues. One of the most commonly searched queries by users involves the term *eero support phone number*, as it signifies a direct and human-assisted path to resolution.
 
-.. image:: clcik-here.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
