@@ -1,7 +1,7 @@
 How to Reach Eero Support Phone Number?
 ============================================
 
-.. image:: download.gif
+.. image:: clcik-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
